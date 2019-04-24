@@ -1,1 +1,3 @@
 from: local-dev
+server:
+  port: 9090

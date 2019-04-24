@@ -1,1 +1,3 @@
 from: local
+server:
+  port: 9090
